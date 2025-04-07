@@ -4,17 +4,22 @@
 
 ---
 
-## 🔧 Compétences techniques
+## 🚀 Technologies & Outils
 
-- **Langages web** : HTML5, CSS3, JavaScript
-- **Back-end** : PHP, Symfony
-- **Autres langages** : Java
-- **Outils & Méthodologies** : Git, GitHub, MVC, POO, REST API
-- **Bases de données** : MySQL
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" alt="Symfony" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
 
 ---
 
-## 🧠 Ce que j’aime
+## 🧠 Mon univers
 
 Créer des expériences utilisateur fluides, résoudre des problèmes complexes et apprendre constamment de nouvelles technologies. Mon univers : un code propre, des interfaces intuitives, et une touche de créativité dans chaque projet.
 
@@ -28,11 +33,10 @@ Je suis à la recherche d’une alternance en tant qu’**Analyste Développeur*
 
 ## 📫 Me contacter
 
-- ✉️ achou.abderrahmane@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/TON-LIEN)
+- ✉️ achou.abderrahmane@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/TON-LIEN)  
 - 🌐 [Portfolio en ligne (si disponible)](https://TON-PORTFOLIO)
 
 ---
 
 Merci de visiter mon GitHub ! 🚀
-
