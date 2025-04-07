@@ -11,11 +11,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" alt="Symfony" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original-wordmark.svg" alt="Symfony" width="40" height="40" style="background-color: white; border-radius: 5px; padding: 2px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
+
 
 ---
 
@@ -27,15 +28,15 @@ Créer des expériences utilisateur fluides, résoudre des problèmes complexes 
 
 ## 🎯 Objectif
 
-Je suis à la recherche d’une alternance en tant qu’**Analyste Développeur**. Fort d’une formation en développement web (Bac+2) et d’une grande motivation, je veux contribuer à des projets concrets tout en continuant à progresser auprès de professionnels.
+Je suis à la recherche d’une alternance en tant qu’**Concepteur Développeur d'Application**. Fort d’une formation en développement web (Bac+2) et d’une grande motivation, je veux contribuer à des projets concrets tout en continuant à progresser auprès de professionnels.
 
 ---
 
 ## 📫 Me contacter
 
 - ✉️ achou.abderrahmane@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/TON-LIEN)  
-- 🌐 [Portfolio en ligne (si disponible)](https://TON-PORTFOLIO)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/TON-LIEN](https://www.linkedin.com/in/abderrahmane-achou-08b2b0179/))  
+
 
 ---
 
